@@ -26,4 +26,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karchevborislav&" alt="karchevborislav" /></p>
 
 ### My GitHub Contributions
-![Snake animation](https://raw.githubusercontent.com/KarchevBorislav/KarchevBorislav/output/github-contribution-grid-snake-light.svg)
+![Snake animation](https://raw.githubusercontent.com/KarchevBorislav/KarchevBorislav/output/github-contribution-grid-snake.svg)
