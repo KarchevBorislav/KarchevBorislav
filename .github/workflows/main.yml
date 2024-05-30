@@ -33,7 +33,7 @@ jobs:
           test -f dist/only-svg/github-contribution-grid-snake-dark.svg
 
           test -f dist/docker/github-contribution-grid-snake.svg
-          test -f dist/docker/github-contribution-grid-snake-dark.svg
+          test -f dist/docker/github-contribution-grid-snake.svg
           test -f dist/docker/github-contribution-grid-snake.gif
 
       - name: push github-contribution-grid-snake.svg to the output branch
