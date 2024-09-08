@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karchevborislav" alt="karchevborislav" /></a> </p>
 
-- 🌱 I’m currently learning **Java 17 Masterclass: Start Coding in 2024,SoftUni DB and Spring**
+- 🌱 I’m currently learning Two Udemy Courses **Java 17 Masterclass: Start Coding in 2024,Spring Framework 5: Learn Spring Framework 5, Spring Boot 2, Spring MVC, Spring Data JPA, Spring Data MongoDB, Hibernate **
 
 - 👨‍💻 All of my projects are available at [https://github.com/KarchevBorislav?tab=repositories](https://github.com/KarchevBorislav?tab=repositories)
 
