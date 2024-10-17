@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karchevborislav" alt="karchevborislav" /></a> </p>
 
-- 🌱 I’m currently learning  Udemy Courses **Java 17 Masterclass: Start Coding in 2024
+- 🌱 I’m currently learning  Udemy Courses **Java 17 Masterclass: Start Coding in 2024 ,CSS and HTML.
 
 - 👨‍💻 All of my projects are available at [https://github.com/KarchevBorislav?tab=repositories](https://github.com/KarchevBorislav?tab=repositories)
 
@@ -17,7 +17,48 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+ <p align="left">
+      <a href="https://www.java.com" target="_blank" rel="noreferrer">
+        <img
+          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
+          alt="java"
+          width="40"
+          height="40"
+        />
+      </a>
+      <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+        <img
+          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
+          alt="mysql"
+          width="40"
+          height="40"
+        />
+      </a>
+      <a href="https://spring.io/" target="_blank" rel="noreferrer">
+        <img
+          src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg"
+          alt="spring"
+          width="40"
+          height="40"
+        />
+      </a>
+      <a href="https://www.w3.org/Style/CSS/" target="_blank" rel="noreferrer">
+        <img
+          src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg"
+          alt="css"
+          width="40"
+          height="40"
+        />
+      </a>
+      <a href="https://html.spec.whatwg.org/" tabindex="_blank" rel="noreferrer">
+        <img
+          src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"
+          alt="html"
+          width="40"
+          height="40"
+      /></a>
+    </p>
+  
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=karchevborislav&show_icons=true&locale=en&layout=compact" alt="karchevborislav" /></p>
 
